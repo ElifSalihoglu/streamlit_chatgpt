@@ -12,4 +12,4 @@
 4. Run the following command in your terminal:
 
 
-streamlit run main.py
+ streamlit run main.py
